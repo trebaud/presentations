@@ -24,6 +24,8 @@ but it will make your typing experience more pleasurable
 #### PROS
 
 - 🤟 Vim is a language (no need to learn a bunch of ad-hoc IDE commands by heart)
+- 🤟 Vim optimizes for editing text not just writing new text, because most of the time writers are changing
+  existing text
 - 🤟 Free and open source
 - 🤟 Ubiquitous in many different types of environments, learn once use it everywhere
 - 🤟 Customizable (might be a con for some people)
