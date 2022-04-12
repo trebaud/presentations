@@ -85,7 +85,6 @@ you might do a change
 - c2w = ?
 - ci( = ?
 - c$ = ?
-- ^ gg d Shift-g = ?
 
 #### Basic motions
 
@@ -110,20 +109,18 @@ you might do a change
 
 #### Useful stuff
 
-:w - Save current open buffer
-:q - Quit vim
-:wq - Save and quit
-:split - Open new split window
-:2 - Move to line number 2
-:e [file] open a new file
+- :w - Save current open buffer
+- :q - Quit vim
+- :wq - Save and quit
+- :split - Open new split window
+- :2 - Move to line number 2
+- :e [file] open a new file
 
 Also any terminal command using !
 
 ### Insert mode
 
-Just type, aka any other editor. To enter it just type i
-
-Can also be entered by other normal commands or verb/nouns combinations:
+To enter insert mode just type i in normal mode or other normal commands or verb/nouns combinations:
 
 - Shift-i: go into insert mode at the beginning fo the line
 - Shift-a: go into insert mode at the end of the line
